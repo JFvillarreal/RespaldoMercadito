@@ -151,7 +151,7 @@ public class Principal extends JFrame {
 		contentPane.add(findPartiallyByDescription);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\camil\\OneDrive\\Im\u00E1genes\\mercadoLibre.png"));
+		lblNewLabel.setIcon(new ImageIcon("imagen/mercado-libre-logo-6.png"));
 		lblNewLabel.setBounds(0, 165, 502, 98);
 		contentPane.add(lblNewLabel);
 		
