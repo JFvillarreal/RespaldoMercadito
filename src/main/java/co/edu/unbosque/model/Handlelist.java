@@ -33,7 +33,7 @@ public class Handlelist {
 	 * lee el contenido del archiv csv y lo coloca en setNum
 	 */
 	public void cargardata() {
-		lista.setNum(aplication.readFromPath("csv/dataprueba.csv"));
+		lista.setNum(aplication.readFromPath("csv/data.csv"));
 	}
 	/**
 	 * Calcula el total de ventas de la tienda
